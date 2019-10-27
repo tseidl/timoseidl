@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Welcome to my website!"
+title: Welcome to my website!
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,13 @@ redirect_from:
 
 
 About Me
------
+=====
 
 I´m a PhD Researcher at the Department of Political and Social Sciences at the European University Institute in Florence. Previously I studied at the Universities of Augsburg, Oslo, Frankfurt and Toronto. I´m intellectually quite “promiscuous”, having worked on German foreign policy during the Euro crisis, the relationship between Germany and its former
 colony Namibia, the relevance of recent findings in evolutionary anthropology and moral psychology for the social sciences, the biographical differences between those members of the Forbes 400 that have made their money with digital technologies and those who haven´t, and, lastly, the role of morality in economic life.
 
 Research Interests & Projects
-------
+======
 
 More recently, I have been working on a number of more or less related research project that revolve around the political economy of digitalization. In my dissertation, I´m looking at political responses to digitalization from a comparative perspective. In particular, I´m interested in i) the regulation of digital platforms that intermediate labor such as Uber or
 Deliveroo; ii) the implementation of the EU’s General Data Protection Regulation in different European countries; and iii) in the differences in the extent to which European countries invest in digital infrastructures.
