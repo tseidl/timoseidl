@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://github.com/tseidl/timoseidl/raw/master/CV_Timo_Seidl.pdf"/>
+<a href="https://github.com/tseidl/timoseidl/raw/master/CV_Timo_Seidl.pdf" target="_blank">PDF.</a>
