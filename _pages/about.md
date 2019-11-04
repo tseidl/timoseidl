@@ -31,7 +31,7 @@ Methodologically, I try to live by William Sewell’s dictum that social science
 
 One of the things I have been grappling with for a long time, theoretically and methodologically, is how ideas, in Max Weber’s words, can become “effective forces in history.” For too long, ideas have been “primary exhibits for the doctrine that what is important to study cannot be measured and that what can be measured is not important to study” (Philip Converse). I believe that by carefully conceptualizing ideas and their relationship to interests and institutions, and by using old and new methodological tools in creative ways, we can advance the ideational agenda and make ideas an important puzzle piece in many social scientific explanations.
 
-Above and beyond academica
+Beyond academia
 =====
 
 Bismarck once said that his passions resemble the trout in his pond: one eats up the other until there remains only one fat old trout. Thus his passionate love for politics has devoured all his other passions. To make sure that my passion for the social sciences does not get “fatter” than it already is, I try to cultivate my other passions as well, from hiking to playing board and card games to learning another vegetarian recipe once in a while.
