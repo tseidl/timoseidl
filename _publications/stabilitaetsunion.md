@@ -2,7 +2,7 @@
 title: "Eine Stabilitäts- und Wettbewerbsunion der Regierungen"
 permalink: /publications/
 date: 2017-01-01
-venue: "Buch"
+venue: "Deutsche Außenpolitik: Arenen, Diskurse und grundlegende Handlungsregeln"
 ---
 
 [Download paper here](https://github.com/tseidl/timoseidl/raw/master/Laurer_Seidl_2014.pdf)
