@@ -1,6 +1,6 @@
 ---
 title: "Das doppelte Ziel der deutschen Eurokrisenpolitik"
-permalink: /publication/
+permalink: /publications/
 date: 2014-01-01
 venue: "Welttrends"
 ---
