@@ -1,6 +1,6 @@
 ---
 title: "Eine Stabilitäts- und Wettbewerbsunion der Regierungen"
-permalink: /publication/
+permalink: /publications/
 date: 2017-01-01
 venue: "Buch"
 ---
