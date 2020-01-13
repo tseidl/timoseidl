@@ -1,5 +1,6 @@
 ---
 title: "Eine Stabilitäts- und Wettbewerbsunion der Regierungen"
+collection: publications
 permalink: /publications/
 date: 2017-01-01
 venue: "Deutsche Außenpolitik: Arenen, Diskurse und grundlegende Handlungsregeln"
