@@ -1,6 +1,6 @@
 ---
 title: "Das doppelte Ziel der deutschen Eurokrisenpolitik"
-permalink: /publication/welttrends
+permalink: /publication/
 ---
 
 [Download paper here](https://github.com/tseidl/timoseidl/Laurer_Seidl_2014.pdf)
