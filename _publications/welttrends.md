@@ -1,6 +1,5 @@
 ---
 title: "Das doppelte Ziel der deutschen Eurokrisenpolitik"
-collection: publications
 permalink: /publication/welttrends
 ---
 
