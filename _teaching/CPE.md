@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Comparative Political Economy"
 type: "Undergraduate course"
-permalink: /teaching/CPE
+permalink: /teaching
 venue: "Heinrich Heine Universität, Düsseldorf"
 location: ""
 ---
