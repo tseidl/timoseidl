@@ -1,7 +1,6 @@
 ---
 title: "Introduction to Comparative Political Economy"
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
 venue: "Heinrich Heine Universität"
 location: "Düsseldorf, Germany"
 ---
