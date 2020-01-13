@@ -3,7 +3,7 @@ title: "Introduction to Comparative Political Economy"
 type: "Undergraduate course"
 permalink: /teaching/
 venue: "Heinrich Heine Universität, Düsseldorf"
-date: 2020-04-01
+date: "2020-04-01"
 location: ""
 ---
 
