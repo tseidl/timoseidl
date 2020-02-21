@@ -1,7 +1,7 @@
 ---
 title: Web Scraping & Text Mining
 layout: default
-permalink: /portfolio
+permalink: /courses/
 published: true
 ---
 

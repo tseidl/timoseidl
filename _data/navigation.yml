@@ -6,7 +6,10 @@ main:
     url: /cv/
      
  - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+    
+  - courses: "Courses"
+     url: /courses/
     
   # title: "Portfolio"
    # url: /portfolio/
