@@ -1,3 +1,11 @@
+---
+
+title: Introduction to Comparative Political Econonomy
+layout: default
+permalink: /CPE
+
+---
+
 
 # Research Interests
 
