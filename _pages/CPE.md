@@ -6,29 +6,45 @@ published: true
 
 ---
 
-**Web Scraping & Data Mining**, EUI, Florence (2018)
+**Introduction to Comparative Political Econonomy**, Henrich Heine Universität, Düsseldorf (2020)
 
-&nbsp;
 
-![text](text.png)
+
+![text](/CPE/wordcloud.png)
 
 ### Course Description
 
-This course will introduce students to the data science fundamentals of extraction, processing and classification of web content. It will review current methods for automated web scraping, natural language processing for parsing unstructured data and machine learning algorithms for textual data. With this in mind, the first part of the course will provide an in-depth survey of different structures and features of web content (XML, JSON, HTML, CSS-tags and XPATH) and cover the main tools for harvesting, extracting and processing the data retrieved into structured formats, using static and dynamic web pages and APIs. In a second stage, we will explore applications of machine learning algorithms to the parsed data, with a particular focus on text analysis. Under the umbrella of supervised and unsupervised learning, the course will cover traditional approaches to content analysis and dictionary-based methods, machine learning algorithms for classification, scaling methods and topic modeling. Our goal is to help students automate the extraction of online content, parse the unstructured data into formats amenable to analysis and produce quantities of interest using classification and data reduction methods, using text as data for the most part. The course will be taught in R, but we may also touch upon Python libraries for particular applications.
+Comparative Political Economy (CPE) is the comparative study of how politics shapes, constrains, and supports the (capitalist) economy. Comparative political economists try to understand how interest groups, political parties, institutional structures and ideas affect i)
+the creation and distribution of wealth and ii) the relationship between the economy and the rest of society. They look, among many other things, at how labor and financial markets are organized, how education and welfare systems are set up, how trade unions and employer organizations interact, how taxes are levied or not, how macroeconomic paradigms rise and fall, how families are supported
+or left alone, or how governments promote or regulate industries. And they look at how this affects levels of productivity, income and wealth inequality, work time, (un-)employment levels, market concentration, pollution, mobility, gender equality, consumer safety, social protection, happiness, or fertility. This course introduces students to some of the main theories that try to explain why regions, countries and continents differ in these regards, and when and how such varieties persist. While the focus will be on advanced capitalist democracies, we will also venture into the comparative political economy of developing countries.
 
-Links to [**Readings**](eui2018/readings.zip) and [**Data**](pauloserodio.com/readings.zip){:target="_blank"}
+Link to [**Readings**](CPE/readings.zip)
 
 ### Course Structure
 
-  - **Day 1 - Web Scraping I**: 
-    - [slides](eui2018/day1.pdf), [R scripts](eui2018/scripts_day1.zip)
-  - **Day 2 - Web Scraping II and OCR**: 
-    - [slides](eui2018/day2.pdf), [R scripts](eui2018/labs_day2.zip)
-  - **Day 3 - Working with Text as Data**: 
-    - [slides](eui2018/slides_day3.pdf), [R scripts](eui2018/lab_day3.R)
-  - **Day 4 - Supervised Learning**: 
-    - [slides](eui2018/slides_day4.pdf), [R scripts](eui2018/lab_day4.zip)
-  - **Day 5 - Unsupervised Learning**: 
-    - [slides](eui2018/day5_slides.pdf), [R scripts](eui2018/lab_day5.zip)
-  - **Assessment**:
-    - [instructions](eui2018/Instructions.docx), [R script](eui2018/final_assessment.R)
+  - **Day 1 - Session 1: Introduction **: 
+    - [slides](CPE/02_Capitalism and the Law.pdf)
+  - **Day 1 - Session 2: Capitalism and the Law **: 
+    - [slides](CPE/02_Capitalism and the Law.pdf)
+  - **Day 1 - Session 3: Interest, Institutions, Ideas **: 
+    - [slides](eui2018/slides_day3.pdf)
+  - **Day 2 - Session 3: Varieties of Capitalism **: 
+    - [slides](eui2018/slides_day4.pdf)
+  - **Day 2 - Session 3: Worlds of Welfare **: 
+    - [slides](eui2018/day5_slides.pdf)
+  - **Day 2 - Session 6: Commonalities of Capitalism **:
+    - [instructions](eui2018/Instructions.docx)
+  - **Day 3 - Session 7: Debt**:
+    - [instructions](eui2018/Instructions.docx)
+  - **Day 3 - Session 8: Higher Education**:
+    - [instructions](eui2018/Instructions.docx)
+  - **Day 3 - Session 9: Competition**:
+    - [instructions](eui2018/Instructions.docx)
+  - **Day 4 - Session 10: CPE of Developing Countries **:
+    - [instructions](eui2018/Instructions.docx)
+    **Day 4 - Session 11: The invisible hand of the state? **:
+    - [instructions](eui2018/Instructions.docx)
+   - **Day 4 - Session 12: Democracy and Capitalism**:
+    - [instructions](eui2018/Instructions.docx)
+    
+    
