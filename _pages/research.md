@@ -1,8 +1,8 @@
 ---
 
-title: Introduction to Comparative Political Econonomy
+title: Research Interests
 layout: default
-permalink: /CPE
+permalink: /research
 
 ---
 
