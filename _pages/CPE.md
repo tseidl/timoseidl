@@ -1,12 +1,9 @@
 ---
 title: Web Scraping & Text Mining
 layout: default
-permalink: /CPE/
+permalink: /CPE
 published: true
-redirect_from: 
-  - /CPE/
-  - /CPE.html
----
+
 ---
 
 **Web Scraping & Data Mining**, EUI, Florence (2018)
