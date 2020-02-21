@@ -22,29 +22,29 @@ Link to [**Readings**](CPE/readings.zip)
 
 ### Course Structure
 
-  - **Day 1 - Session 1: Introduction **: 
+  - **Day 1 - Session 1: Introduction**: 
     - [slides](CPE/02_Capitalism and the Law.pdf)
-  - **Day 1 - Session 2: Capitalism and the Law **: 
+  - **Day 1 - Session 2: Capitalism and the Law**: 
     - [slides](CPE/02_Capitalism and the Law.pdf)
-  - **Day 1 - Session 3: Interest, Institutions, Ideas **: 
+  - **Day 1 - Session 3: Interest, Institutions, Ideas**: 
     - [slides](eui2018/slides_day3.pdf)
-  - **Day 2 - Session 3: Varieties of Capitalism **: 
+  - **Day 2 - Session 3: Varieties of Capitalism**: 
     - [slides](eui2018/slides_day4.pdf)
-  - **Day 2 - Session 3: Worlds of Welfare **: 
+  - **Day 2 - Session 3: Worlds of Welfare**: 
     - [slides](eui2018/day5_slides.pdf)
-  - **Day 2 - Session 6: Commonalities of Capitalism **:
+  - **Day 2 - Session 6: Commonalities of Capitalism**:
     - [slides](eui2018/Instructions.docx)
-  - **Day 3 - Session 7: Debt **:
+  - **Day 3 - Session 7: Debt**:
     - [slides](eui2018/Instructions.docx)
-  - **Day 3 - Session 8: Higher Education **:
+  - **Day 3 - Session 8: Higher Education**:
     - [slides](eui2018/Instructions.docx)
   - **Day 3 - Session 9: Competition**:
     - [slides](eui2018/Instructions.docx)
-  - **Day 4 - Session 10: CPE of Developing Countries **:
+  - **Day 4 - Session 10: CPE of Developing Countries**:
     - [slides](eui2018/Instructions.docx)
-  - **Day 4 - Session 11: The invisible hand of the state? **:
+  - **Day 4 - Session 11: The invisible hand of the state?**:
     - [slides](eui2018/Instructions.docx)
-   - **Day 4 - Session 12: Democracy and Capitalism **:
+   - **Day 4 - Session 12: Democracy and Capitalism**:
     - [slides](eui2018/Instructions.docx)
     
     
