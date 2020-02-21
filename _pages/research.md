@@ -1,8 +1,8 @@
 ---
-
-title: Research Interests
-layout: default
-permalink: /research
+layout: archive
+title: "Research Interests"
+permalink: /research/
+author_profile: true
 
 ---
 
