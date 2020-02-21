@@ -60,7 +60,7 @@ Link to [**Readings**](CPE/readings.zip)
   - **Day 4 - Session 11: The invisible hand of the state?**:
     - [slides](eui2018/Instructions.docx)
    - **Day 4 - Session 12: Democracy and Capitalism**:
-    - [slides](eui2018/Instructions.docx)
+      - [slides](eui2018/Instructions.docx)
     
  
  Let me know if you have any issues downloading the files!
