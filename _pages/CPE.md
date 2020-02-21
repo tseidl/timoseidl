@@ -1,12 +1,12 @@
 ---
-title: Web Scraping & Text Mining
+title: Introduction to Comparative Political Econonomy
 layout: default
 permalink: /CPE
-published: true
 
 ---
 
-**Introduction to Comparative Political Econonomy**, Henrich Heine Universität, Düsseldorf (2020)
+# Introduction to Comparative Political Econonomy
+## Henrich Heine Universität, Düsseldorf (2020)
 
 
 
@@ -33,18 +33,18 @@ Link to [**Readings**](CPE/readings.zip)
   - **Day 2 - Session 3: Worlds of Welfare **: 
     - [slides](eui2018/day5_slides.pdf)
   - **Day 2 - Session 6: Commonalities of Capitalism **:
-    - [instructions](eui2018/Instructions.docx)
+    - [slides](eui2018/Instructions.docx)
   - **Day 3 - Session 7: Debt**:
-    - [instructions](eui2018/Instructions.docx)
+    - [slides](eui2018/Instructions.docx)
   - **Day 3 - Session 8: Higher Education**:
-    - [instructions](eui2018/Instructions.docx)
+    - [slides](eui2018/Instructions.docx)
   - **Day 3 - Session 9: Competition**:
-    - [instructions](eui2018/Instructions.docx)
+    - [slides](eui2018/Instructions.docx)
   - **Day 4 - Session 10: CPE of Developing Countries **:
-    - [instructions](eui2018/Instructions.docx)
+    - [slides](eui2018/Instructions.docx)
     **Day 4 - Session 11: The invisible hand of the state? **:
-    - [instructions](eui2018/Instructions.docx)
+    - [slides](eui2018/Instructions.docx)
    - **Day 4 - Session 12: Democracy and Capitalism**:
-    - [instructions](eui2018/Instructions.docx)
+    - [slides](eui2018/Instructions.docx)
     
     
