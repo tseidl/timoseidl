@@ -16,7 +16,7 @@ I´m a PhD Researcher at the Department of Political and Social Sciences at the 
 
 In my resarch, I try to show how the current digital transformation of economies and societies is not just a technological or economic process, but is profoundly shaped by the political and cultural environment it unfolds. You can learn about my research interests [here](https://timoseidl.com/research/) and you can find my CV [here](https://timoseidl.com/cv/). 
 
-Feel free to follow me on [Twitter](https://twitter.com/Timo_Seidl), to check out my [Google Scholar](https://scholar.google.com/citations?user=0sdYB3AAAAAJ&hl=de) profile, or to drop me an [email](timo.seidl@eui.eu)!
+Feel free to follow me on [Twitter](https://twitter.com/Timo_Seidl), to check out my [Google Scholar](https://scholar.google.com/citations?user=0sdYB3AAAAAJ&hl=de) profile, or to drop me an email at <timo.seidl@eui.eu>!
 
 Beyond academia
 =====
