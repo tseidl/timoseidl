@@ -1,6 +1,6 @@
 ---
 title: Introduction to Comparative Political Econonomy
-layout: default
+layout: single
 permalink: /CPE
 
 ---
