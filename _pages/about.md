@@ -12,7 +12,7 @@ redirect_from:
 About Me
 =====
 
-I´m a PhD Researcher at the Department of Political and Social Sciences at the European University Institute in Florence, and currently a visiting researcher at Humboldt University in Berlin. I have previously studied at the Universities of Augsburg, Oslo, Frankfurt and Toronto. 
+I´m a PhD Researcher at the Department of Political and Social Sciences at the European University Institute in Florence, and currently a visiting researcher at Humboldt University and the Alexander von Humboldt Institute for Internet and Society in Berlin. I previously studied at the Universities of Augsburg, Oslo, Frankfurt and Toronto. 
 
 In my resarch, I try to show how the current digital transformation of economies and societies is not just a technological or economic process, but is profoundly shaped by the political and cultural environment it unfolds. You can learn about my research interests [here](https://timoseidl.com/research/) and you can find my CV [here](https://timoseidl.com/cv/). 
 
