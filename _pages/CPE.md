@@ -9,7 +9,6 @@ permalink: /CPE
 
 
 
-# Introduction to Comparative Political Econonomy
 ## Henrich Heine Universität, Düsseldorf (2020)
 
 
