@@ -8,7 +8,7 @@ permalink: /publications/
 
 Roos, U. and Seidl, T. (2015) ‘Im »Südwesten« nichts Neues? Eine Analyse der deutschen Namibiapolitik als Beitrag zur Rekonstruktion der außenpolitischen Identität des deutschen Nationalstaates’, Zeitschrift für Friedens- und Konfliktforschung, 4(2), pp. 182–225.
 
-Link to [**Journal**](https://www.nomos-elibrary.de/10.5771/2192-1741-2015-2-182/im-suedwesten-nichts-neues-eine-analyse-der-deutschen-namibiapolitik-als-beitrag-zur-rekonstruktion-der-aussenpolitischen-identitaet-des-deutschen-nationalstaates-volume-4-2015-issue-2?page=1) -- [**Paper**](_publications/Roos, Seidl 2015 - Im Südwesten nichts Neues.pdf)
+[**Paper**](_publications/Roos_Seidl_2015.pdf)
 
 ## Working Papers & Work in Progress
 
@@ -16,6 +16,18 @@ Link to [**Journal**](https://www.nomos-elibrary.de/10.5771/2192-1741-2015-2-182
 
 ## Book Chapters
 
+Laurer, M. and Seidl, T. (2017) ‘Eine Stabilitäts- und Wettbewerbsunion der Regierungen: Zur Rekonstruktion grundlegender Handlungsregeln deutscher Eurokrisenpolitik’, in Roos, U. (ed.) Deutsche Außenpolitik: Arenen, Diskurse und grundlegende Handlungsregeln. Wiesbaden: Springer VS, pp. 13–47.
 
 
 ## Other Publications
+
+
+Laurer, M. and Seidl, T. (2014) ‘Das doppelte Ziel der deutschen Eurokrisenpolitik’, Welttrends, 22(99), pp. 120–126.
+
+[**Paper**](_publications/Laurer_Seidl_2014.pdf)
+
+
+## Newspaper Articles
+
+
+
