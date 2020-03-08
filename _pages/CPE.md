@@ -32,7 +32,7 @@ countries and continents differ in these regards, and when and how such varietie
 focus will be on advanced capitalist democracies, we will also venture into the comparative political
 economy of developing countries.
 
-Link to [**Readings**](CPE/readings.zip)
+Link to [**Readings**](CPE/readings.zip)    Link to [**Syllabus**](CPE/Syllabus_CPE.pdf)
 
 ### Course Structure
 
