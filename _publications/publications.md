@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Work in Progress
 
-* Seidl, Timo ‘The Politics of Platform Capitalism. A Case Study on the Regulation of Uber in New York’. Revise and Resubmit.[**Preprint**](_publications/Seidl_2020_Politics_of_Platform_Capitalism.pdf) / [**Replication Material**](_publications/Replication_Material_Seidl_Politics_of_Platform_Capitalism.zip)
+* Seidl, Timo ‘The Politics of Platform Capitalism. A Case Study on the Regulation of Uber in New York’. Revise and Resubmit. [**Preprint**](_publications/Seidl_2020_Politics_of_Platform_Capitalism.pdf) / [**Replication Material**](_publications/Replication_Material_Seidl_Politics_of_Platform_Capitalism.zip)
 
 * Laurer, Moritz/Seidl, Timo ‘Politics against Digital Markets. A Case Study on the GDPR’. Under Review.
 
