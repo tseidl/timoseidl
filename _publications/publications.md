@@ -1,3 +1,12 @@
+---
+title: "Introduction to Comparative Political Economy"
+type: "Undergraduate course"
+permalink: /publication/
+venue: "Heinrich Heine Universität, Düsseldorf"
+date: 2020-01-01
+location: "Düsseldorf"
+---
+
 
 ## Peer-Reviewed Journal Articles
 
