@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Peer-Reviewed Journal Articles
 
-* Roos, U. and Seidl, T. (2015) ‘Im »Südwesten« nichts Neues? Eine Analyse der deutschen Namibiapolitik als Beitrag zur Rekonstruktion der außenpolitischen Identität des deutschen Nationalstaates’, Zeitschrift für Friedens- und Konfliktforschung, 4(2), pp. 182–225. [**Paper**](_publications/Roos_Seidl_2015.pdf)
+* Roos, U. and Seidl, T. (2015) ‘Im »Südwesten« nichts Neues? Eine Analyse der deutschen Namibiapolitik als Beitrag zur Rekonstruktion der außenpolitischen Identität des deutschen Nationalstaates’, Zeitschrift für Friedens- und Konfliktforschung, 4(2), pp. 182–225. [**Paper**](Roos_Seidl_2015.pdf)
 
 ## Work in Progress
 
