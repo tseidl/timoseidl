@@ -16,7 +16,9 @@ Roos, U. and Seidl, T. (2015) ‘Im »Südwesten« nichts Neues? Eine Analyse de
 
 ## Book Chapters
 
-Laurer, M. and Seidl, T. (2017) ‘Eine Stabilitäts- und Wettbewerbsunion der Regierungen: Zur Rekonstruktion grundlegender Handlungsregeln deutscher Eurokrisenpolitik’, in Roos, U. (ed.) Deutsche Außenpolitik: Arenen, Diskurse und grundlegende Handlungsregeln. Wiesbaden: Springer VS, pp. 13–47.
+* Laurer, M. and Seidl, T. (2017) ‘Eine Stabilitäts- und Wettbewerbsunion der Regierungen: Zur Rekonstruktion grundlegender Handlungsregeln deutscher Eurokrisenpolitik’, in Roos, U. (ed.) Deutsche Außenpolitik: Arenen, Diskurse und grundlegende Handlungsregeln. Wiesbaden: Springer VS, pp. 13–47.
+
+* Seidl, T. (2017) ‘Kompatibilität statt Reduktion: Zur Idee einer Interdisziplinären Anthropologie als soziologischem Selbst- und Fremdver(un)sicherungsraum’, in Wagner, G. (ed.) Die Provokation der Reduktion: Beiträge zur Wissenschaftstheorie der Soziologie. Wiesbaden: Harrassowitz, pp. 201–232.
 
 
 ## Other Publications
