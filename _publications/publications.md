@@ -12,9 +12,9 @@ permalink: /publications/
 
 * Seidl, Timo ‘The Politics of Platform Capitalism. A Case Study on the Regulation of Uber in New York’. Revise and Resubmit. [**Preprint**](Seidl_2020_Politics_of_Platform_Capitalism.pdf) / [**Replication Material**](Replication_Material_Seidl_Politics_of_Platform_Capitalism.zip)
 
-* Laurer, Moritz/Seidl, Timo ‘Politics against Digital Markets. A Case Study on the GDPR’. Under Review.
+* Nachtwey, Oliver/Seidl, Timo ‘The Solutionist Ethic and the Spirit of Digital Capitalism’. Soc ArXiv Working Paper. [**Link to Article**](https://doi.org/10.31235/osf.io/sgjzq) / [**Coding Scheme**](Nachtwey, Seidl_Coding Scheme_Spirit of Digital Capitalism.pdf)
 
-* Nachtwey, Oliver/Seidl, Timo ‘The Solutionist Ethic and the Spirit of Digital Capitalism’. Unpublished Manuscript.
+* Laurer, Moritz/Seidl, Timo ‘Politics against Digital Markets. A Case Study on the GDPR’. Under Review.
 
 * Marenco, Matteo/Seidl, Timo: ‘Talkin’ bout Digitalization. A Quantitative Mapping of Discourses on the Digitalization of Work in 8 European Countries’. Unpublished Manuscript.
 
