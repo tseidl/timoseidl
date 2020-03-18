@@ -7,5 +7,5 @@ date: 2020-01-01
 location: "Düsseldorf"
 ---
 
-This is a course I will teach at Heinrich Heine University in Düsseldorf in the summer of 2020. Take a look at the [syllabus](https://github.com/tseidl/timoseidl/CPE/Syllabus_CPE_Seidl.pdf)! 
+This is a course I will teach at Heinrich Heine University in Düsseldorf in the summer of 2020. Take a look at the [syllabus](https://github.com/tseidl/timoseidl/blob/master/CPE/Syllabus_CPE_Seidl.pdf)! 
 
