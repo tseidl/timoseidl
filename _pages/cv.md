@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-You can download my CV [here](https://github.com/tseidl/timoseidl/raw/master/CV_Timo_Seidl.pdf)
+You can download my CV [here](https://github.com/tseidl/timoseidl/raw/master/CV_Seidl.pdf)
 
